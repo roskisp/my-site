@@ -1,4 +1,4 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://github.com/roskisp/my-site/public"
 languageCode: "en-us"
 title: "Stefan Roski's Homepage"
 theme: hugo-profile
