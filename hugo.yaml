@@ -1,6 +1,6 @@
-baseURL: "https://roskisp.github.io/my-site/public"
+baseURL: ""
 languageCode: "en-us"
-title: "Stefan Roski's Homepage"
+title: "StefanRoski's Homepage"
 theme: hugo-profile
 
 
