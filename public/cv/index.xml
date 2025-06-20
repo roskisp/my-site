@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cvs on Stefan Roski&#39;s Homepage</title>
-    <link>localhost/cv/</link>
+    <link>http://localhost:1313/my-site/cv/</link>
     <description>Recent content in Cvs on Stefan Roski&#39;s Homepage</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 05 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="localhost/cv/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/my-site/cv/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CV</title>
-      <link>localhost/cv/cv/</link>
+      <link>http://localhost:1313/my-site/cv/cv/</link>
       <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
-      <guid>localhost/cv/cv/</guid>
+      <guid>http://localhost:1313/my-site/cv/cv/</guid>
       <description>&lt;h2 id=&#34;currrent-appointment&#34;&gt;Currrent appointment&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Since 02/2025&lt;/strong&gt;&lt;br&gt;&#xA;Lecturer in Theoretical Philosophy, Philosophy Department, University of Zurich&lt;/p&gt;&#xA;&lt;h2 id=&#34;previous-appointments&#34;&gt;Previous appointments&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;09/2022 &amp;ndash; 01/2025&lt;/strong&gt; &lt;br&gt;&#xA;Executive Director, Centre for Philosophy of Science, University of Münster&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;05/2018 &amp;ndash; 01/2025&lt;/strong&gt;&lt;br&gt;&#xA;Post-Doc in Stephan Krämer&amp;rsquo;s Emmy Noether Group &lt;em&gt;Relevance&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;10/2021 &amp;ndash; 08/2022&lt;/strong&gt;&lt;br&gt;&#xA;Deputy Professor for Theoretical Philosophy, Institute of Philosophy, Saarland University&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;10/2015 &amp;ndash; 04/2018&lt;/strong&gt; &lt;br&gt;&#xA;Post-Doc at the chair of Benjamin Schnieder and in several projects led by Schnieder and Richard Woodward, Hamburg University&lt;/p&gt;</description>
     </item>
   </channel>

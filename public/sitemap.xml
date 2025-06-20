@@ -2,66 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>localhost/cv/cv/</loc>
+    <loc>http://localhost:1313/my-site/cv/cv/</loc>
     <lastmod>2025-05-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>localhost/cv/</loc>
+    <loc>http://localhost:1313/my-site/cv/</loc>
     <lastmod>2025-05-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>localhost/pubs/pubs/</loc>
+    <loc>http://localhost:1313/my-site/pubs/pubs/</loc>
     <lastmod>2025-05-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>localhost/pubs/</loc>
+    <loc>http://localhost:1313/my-site/pubs/</loc>
     <lastmod>2025-05-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>localhost/</loc>
+    <loc>http://localhost:1313/my-site/</loc>
     <lastmod>2025-05-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>localhost/blogs/</loc>
+    <loc>http://localhost:1313/my-site/blogs/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>localhost/tags/example/</loc>
+    <loc>http://localhost:1313/my-site/tags/example/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>localhost/tags/markdown-syntax/</loc>
+    <loc>http://localhost:1313/my-site/tags/markdown-syntax/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>localhost/tags/mathjax/</loc>
+    <loc>http://localhost:1313/my-site/tags/mathjax/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>localhost/blogs/math/</loc>
+    <loc>http://localhost:1313/my-site/blogs/math/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>localhost/tags/</loc>
+    <loc>http://localhost:1313/my-site/tags/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>localhost/gallery/</loc>
+    <loc>http://localhost:1313/my-site/gallery/</loc>
     <lastmod>2022-06-25T18:35:46+05:30</lastmod>
   </url><url>
-    <loc>localhost/blogs/markdown-syntax/</loc>
+    <loc>http://localhost:1313/my-site/blogs/markdown-syntax/</loc>
     <lastmod>2021-04-03T23:29:21+05:30</lastmod>
   </url><url>
-    <loc>localhost/tags/sample/</loc>
+    <loc>http://localhost:1313/my-site/tags/sample/</loc>
     <lastmod>2021-04-03T23:29:21+05:30</lastmod>
   </url><url>
-    <loc>localhost/tags/emoji-support/</loc>
+    <loc>http://localhost:1313/my-site/tags/emoji-support/</loc>
     <lastmod>2021-04-03T22:53:58+05:30</lastmod>
   </url><url>
-    <loc>localhost/blogs/emoji-support/</loc>
+    <loc>http://localhost:1313/my-site/blogs/emoji-support/</loc>
     <lastmod>2021-04-03T22:53:58+05:30</lastmod>
   </url><url>
-    <loc>localhost/tags/placeholder-text/</loc>
+    <loc>http://localhost:1313/my-site/tags/placeholder-text/</loc>
     <lastmod>2021-04-03T22:41:10+05:30</lastmod>
   </url><url>
-    <loc>localhost/blogs/placeholder-text/</loc>
+    <loc>http://localhost:1313/my-site/blogs/placeholder-text/</loc>
     <lastmod>2021-04-03T22:41:10+05:30</lastmod>
   </url><url>
-    <loc>localhost/tags/rich-content/</loc>
+    <loc>http://localhost:1313/my-site/tags/rich-content/</loc>
     <lastmod>2021-04-03T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>localhost/blogs/rich-content/</loc>
+    <loc>http://localhost:1313/my-site/blogs/rich-content/</loc>
     <lastmod>2021-04-03T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>localhost/categories/</loc>
+    <loc>http://localhost:1313/my-site/categories/</loc>
   </url>
 </urlset>
