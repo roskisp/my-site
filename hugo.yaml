@@ -1,6 +1,6 @@
-baseURL: ""
+baseURL: "https://roskisp.github.io"
 languageCode: "en-us"
-title: "StefanRoski's Homepage"
+title: "Stefan Roski's Homepage"
 theme: hugo-profile
 
 
