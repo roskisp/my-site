@@ -1,12 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cvs on Stefan Roski's Homepage</title><link>https://roskisp.github.io/cv/</link><description>Recent content in Cvs on Stefan Roski's Homepage</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 05 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://roskisp.github.io/cv/index.xml" rel="self" type="application/rss+xml"/><item><title>CV</title><link>https://roskisp.github.io/cv/cv/</link><pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate><guid>https://roskisp.github.io/cv/cv/</guid><description>&lt;h2 id="currrent-appointment">Currrent appointment&lt;/h2>
-&lt;p>&lt;strong>Since 02/2025&lt;/strong>&lt;br>
-Lecturer in Theoretical Philosophy, Philosophy Department, University of Zurich&lt;/p>
-&lt;h2 id="previous-appointments">Previous appointments&lt;/h2>
-&lt;p>&lt;strong>09/2022 &amp;ndash; 01/2025&lt;/strong> &lt;br>
-Executive Director, Centre for Philosophy of Science, University of Münster&lt;/p>
-&lt;p>&lt;strong>05/2018 &amp;ndash; 01/2025&lt;/strong>&lt;br>
-Post-Doc in Stephan Krämer&amp;rsquo;s Emmy Noether Group &lt;em>Relevance&lt;/em>&lt;/p>
-&lt;p>&lt;strong>10/2021 &amp;ndash; 08/2022&lt;/strong>&lt;br>
-Deputy Professor for Theoretical Philosophy, Institute of Philosophy, Saarland University&lt;/p>
-&lt;p>&lt;strong>10/2015 &amp;ndash; 04/2018&lt;/strong> &lt;br>
-Post-Doc at the chair of Benjamin Schnieder and in several projects led by Schnieder and Richard Woodward, Hamburg University&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cvs on Stefan Roski&#39;s Homepage</title>
+    <link>https://roskisp.github.io/my-site/cv/</link>
+    <description>Recent content in Cvs on Stefan Roski&#39;s Homepage</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://roskisp.github.io/my-site/cv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CV</title>
+      <link>https://roskisp.github.io/my-site/cv/cv/</link>
+      <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://roskisp.github.io/my-site/cv/cv/</guid>
+      <description>&lt;h2 id=&#34;currrent-appointment&#34;&gt;Currrent appointment&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Since 02/2025&lt;/strong&gt;&lt;br&gt;&#xA;Lecturer in Theoretical Philosophy, Philosophy Department, University of Zurich&lt;/p&gt;&#xA;&lt;h2 id=&#34;previous-appointments&#34;&gt;Previous appointments&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;09/2022 &amp;ndash; 01/2025&lt;/strong&gt; &lt;br&gt;&#xA;Executive Director, Centre for Philosophy of Science, University of Münster&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;05/2018 &amp;ndash; 01/2025&lt;/strong&gt;&lt;br&gt;&#xA;Post-Doc in Stephan Krämer&amp;rsquo;s Emmy Noether Group &lt;em&gt;Relevance&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;10/2021 &amp;ndash; 08/2022&lt;/strong&gt;&lt;br&gt;&#xA;Deputy Professor for Theoretical Philosophy, Institute of Philosophy, Saarland University&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;10/2015 &amp;ndash; 04/2018&lt;/strong&gt; &lt;br&gt;&#xA;Post-Doc at the chair of Benjamin Schnieder and in several projects led by Schnieder and Richard Woodward, Hamburg University&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
