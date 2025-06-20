@@ -24,7 +24,7 @@ date: 2025-05-05
 
 (202X) "Metaphysically Understanding Why", forthcoming in *The Journal of Philosophy* ([contact me](mailto:stefan.roski@philos.uzh.ch) for a draft.)
 
-(2024) [Introduction: Difference-Making and Explanatory Relevance](https://link.springer.com/article/10.1007/s11098-024-02213-8), *Philosophical Studies* **181** (Special Issue: *Difference-Making and Explanatory Relevance*), pp. 2047-2061 (co-authored with [Singa Behrens](https://www.singabehrens.de) and [Stephan Krämer](https://stephankraemer.wordpress.com)
+(2024) [Introduction: Difference-Making and Explanatory Relevance](https://link.springer.com/article/10.1007/s11098-024-02213-8), *Philosophical Studies* **181** (Special Issue: *Difference-Making and Explanatory Relevance*), pp. 2047-2061 (co-authored with [Singa Behrens](https://www.singabehrens.de) and [Stephan Krämer](https://stephankraemer.wordpress.com))
 
 (2021) [In Defence of Explanatory Realism](https://link.springer.com/article/10.1007/s11229-021-03413-z), *Synthese* **199**, pp. 14121-14141
 
