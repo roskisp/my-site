@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Stefan Roski&#39;s Homepage</title>
-    <link>https://roskisp.github.io/my-site/tags/</link>
+    <link>localhost/tags/</link>
     <description>Recent content in Tags on Stefan Roski&#39;s Homepage</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 09 Dec 2022 19:53:33 +0530</lastBuildDate>
-    <atom:link href="https://roskisp.github.io/my-site/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="localhost/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Example</title>
-      <link>https://roskisp.github.io/my-site/tags/example/</link>
+      <link>localhost/tags/example/</link>
       <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
-      <guid>https://roskisp.github.io/my-site/tags/example/</guid>
+      <guid>localhost/tags/example/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown Syntax</title>
-      <link>https://roskisp.github.io/my-site/tags/markdown-syntax/</link>
+      <link>localhost/tags/markdown-syntax/</link>
       <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
-      <guid>https://roskisp.github.io/my-site/tags/markdown-syntax/</guid>
+      <guid>localhost/tags/markdown-syntax/</guid>
       <description></description>
     </item>
     <item>
       <title>Mathjax</title>
-      <link>https://roskisp.github.io/my-site/tags/mathjax/</link>
+      <link>localhost/tags/mathjax/</link>
       <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
-      <guid>https://roskisp.github.io/my-site/tags/mathjax/</guid>
+      <guid>localhost/tags/mathjax/</guid>
       <description></description>
     </item>
     <item>
       <title>Sample</title>
-      <link>https://roskisp.github.io/my-site/tags/sample/</link>
+      <link>localhost/tags/sample/</link>
       <pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate>
-      <guid>https://roskisp.github.io/my-site/tags/sample/</guid>
+      <guid>localhost/tags/sample/</guid>
       <description></description>
     </item>
     <item>
       <title>Emoji Support</title>
-      <link>https://roskisp.github.io/my-site/tags/emoji-support/</link>
+      <link>localhost/tags/emoji-support/</link>
       <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
-      <guid>https://roskisp.github.io/my-site/tags/emoji-support/</guid>
+      <guid>localhost/tags/emoji-support/</guid>
       <description></description>
     </item>
     <item>
       <title>Placeholder Text</title>
-      <link>https://roskisp.github.io/my-site/tags/placeholder-text/</link>
+      <link>localhost/tags/placeholder-text/</link>
       <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
-      <guid>https://roskisp.github.io/my-site/tags/placeholder-text/</guid>
+      <guid>localhost/tags/placeholder-text/</guid>
       <description></description>
     </item>
     <item>
       <title>Rich Content</title>
-      <link>https://roskisp.github.io/my-site/tags/rich-content/</link>
+      <link>localhost/tags/rich-content/</link>
       <pubDate>Sat, 03 Apr 2021 19:53:33 +0530</pubDate>
-      <guid>https://roskisp.github.io/my-site/tags/rich-content/</guid>
+      <guid>localhost/tags/rich-content/</guid>
       <description></description>
     </item>
   </channel>

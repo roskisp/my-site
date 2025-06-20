@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Stefan Roski&#39;s Homepage</title>
-    <link>https://roskisp.github.io/my-site/pubs/pubs/</link>
+    <link>localhost/pubs/pubs/</link>
     <description>Recent content in Publications on Stefan Roski&#39;s Homepage</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://roskisp.github.io/my-site/pubs/pubs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="localhost/pubs/pubs/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

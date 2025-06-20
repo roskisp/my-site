@@ -40,11 +40,11 @@ date: 2025-05-05
 
 (2016) [Simplicity and Economy in Bolzano’s Theory of Grounding](https://muse.jhu.edu/article/628209/), *Journal of the History of Philosophy* **54**(3), pp. 469-496 (co-authored with [Antje Rumberg](https://sites.google.com/view/antje-rumberg))
 
-(2015) [A Note on the Logic of Worldly Ground](https://onlinelibrary.wiley.com/doi/abs/10.1002/tht3.158), *Thought* **4**(1), pp. 59-68. (co-authored with [Stephan Krämer](https://stephankraemer.wordpress.com))
+(2015) [A Note on the Logic of Worldly Ground](https://onlinelibrary.wiley.com/doi/abs/10.1002/tht3.158), *Thought* **4**(1), pp. 59-68 (co-authored with [Stephan Krämer](https://stephankraemer.wordpress.com))
 
-(2014) [Bolzano on Necessary Existence](https://www.degruyterbrill.com/document/doi/10.1515/agph-2014-0015/), *Archiv für Geschichte der Philosophie* **96**(3), pp. 320–359. (co-authored with [Paul Rusnock](https://www.sitta.ca/Rusnock.html))
+(2014) [Bolzano on Necessary Existence](https://www.degruyterbrill.com/document/doi/10.1515/agph-2014-0015/), *Archiv für Geschichte der Philosophie* **96**(3), pp. 320–359 (co-authored with [Paul Rusnock](https://www.sitta.ca/Rusnock.html))
 
-(2014) [The Transition from Formula-Centered to Concept-Centered Analysis.](https://journals.openedition.org/philosophiascientiae/916) *Philosophia Scientiae*, **18**(1), pp. 113-129. (co-authored with [Iris Loeb](https://philpeople.org/profiles/iris-loeb))
+(2014) [The Transition from Formula-Centered to Concept-Centered Analysis.](https://journals.openedition.org/philosophiascientiae/916) *Philosophia Scientiae*, **18**(1), pp. 113-129 (co-authored with [Iris Loeb](https://philpeople.org/profiles/iris-loeb))
 
 ### Articles in collections
 

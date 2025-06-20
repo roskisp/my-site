@@ -2,66 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://roskisp.github.io/my-site/cv/cv/</loc>
+    <loc>localhost/cv/cv/</loc>
     <lastmod>2025-05-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://roskisp.github.io/my-site/cv/</loc>
+    <loc>localhost/cv/</loc>
     <lastmod>2025-05-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://roskisp.github.io/my-site/pubs/pubs/</loc>
+    <loc>localhost/pubs/pubs/</loc>
     <lastmod>2025-05-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://roskisp.github.io/my-site/pubs/</loc>
+    <loc>localhost/pubs/</loc>
     <lastmod>2025-05-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://roskisp.github.io/my-site/</loc>
+    <loc>localhost/</loc>
     <lastmod>2025-05-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://roskisp.github.io/my-site/blogs/</loc>
+    <loc>localhost/blogs/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>https://roskisp.github.io/my-site/tags/example/</loc>
+    <loc>localhost/tags/example/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>https://roskisp.github.io/my-site/tags/markdown-syntax/</loc>
+    <loc>localhost/tags/markdown-syntax/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>https://roskisp.github.io/my-site/tags/mathjax/</loc>
+    <loc>localhost/tags/mathjax/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>https://roskisp.github.io/my-site/blogs/math/</loc>
+    <loc>localhost/blogs/math/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>https://roskisp.github.io/my-site/tags/</loc>
+    <loc>localhost/tags/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>https://roskisp.github.io/my-site/gallery/</loc>
+    <loc>localhost/gallery/</loc>
     <lastmod>2022-06-25T18:35:46+05:30</lastmod>
   </url><url>
-    <loc>https://roskisp.github.io/my-site/blogs/markdown-syntax/</loc>
+    <loc>localhost/blogs/markdown-syntax/</loc>
     <lastmod>2021-04-03T23:29:21+05:30</lastmod>
   </url><url>
-    <loc>https://roskisp.github.io/my-site/tags/sample/</loc>
+    <loc>localhost/tags/sample/</loc>
     <lastmod>2021-04-03T23:29:21+05:30</lastmod>
   </url><url>
-    <loc>https://roskisp.github.io/my-site/tags/emoji-support/</loc>
+    <loc>localhost/tags/emoji-support/</loc>
     <lastmod>2021-04-03T22:53:58+05:30</lastmod>
   </url><url>
-    <loc>https://roskisp.github.io/my-site/blogs/emoji-support/</loc>
+    <loc>localhost/blogs/emoji-support/</loc>
     <lastmod>2021-04-03T22:53:58+05:30</lastmod>
   </url><url>
-    <loc>https://roskisp.github.io/my-site/tags/placeholder-text/</loc>
+    <loc>localhost/tags/placeholder-text/</loc>
     <lastmod>2021-04-03T22:41:10+05:30</lastmod>
   </url><url>
-    <loc>https://roskisp.github.io/my-site/blogs/placeholder-text/</loc>
+    <loc>localhost/blogs/placeholder-text/</loc>
     <lastmod>2021-04-03T22:41:10+05:30</lastmod>
   </url><url>
-    <loc>https://roskisp.github.io/my-site/tags/rich-content/</loc>
+    <loc>localhost/tags/rich-content/</loc>
     <lastmod>2021-04-03T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>https://roskisp.github.io/my-site/blogs/rich-content/</loc>
+    <loc>localhost/blogs/rich-content/</loc>
     <lastmod>2021-04-03T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>https://roskisp.github.io/my-site/categories/</loc>
+    <loc>localhost/categories/</loc>
   </url>
 </urlset>
