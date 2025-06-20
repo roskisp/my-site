@@ -1,4 +1,4 @@
-baseURL: "https://github.com/roskisp/my-site/public"
+baseURL: "https://roskisp.github.io/my-site/"
 languageCode: "en-us"
 title: "Stefan Roski's Homepage"
 theme: hugo-profile
@@ -102,12 +102,12 @@ params:
     lineHeight: 1.5 # default: 1.5
     textAlign: left # default: left
 
-  color:
-    textColor: "#D1D1D1"
-    secondaryTextColor: "#C1A3A3"
-    backgroundColor: "#470D21"
-    primaryColor: "#F3F0D7"
-    secondaryColor: "#781D42"
+  # color:
+  #  textColor: "#D1D1D1"
+  #  secondaryTextColor: "#C1A3A3"
+  #  backgroundColor: "#470D21"
+  #  primaryColor: "#F3F0D7"
+  #  secondaryColor: "#781D42"
 
   # color preference
   # When using hex codes for colors, quotations must be used along with the # sign
@@ -156,7 +156,7 @@ params:
     title: "Isabella."
     subtitle: "I build things for the web"
     content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly."
-    image: /images/hero.svg
+    image: images/hero.svg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -182,7 +182,7 @@ params:
     title: "About"
     image: "/images/Roski.jpeg"
     content: |-
-      I am a lecturer in theoretical philosophy at the [philosophy department](https://www.philosophie.uzh.ch/en.html) of the University of Zurich. My research revolves around topics in the intersection of philosophy of science, metaphysics, and  epistemology; more specifically on explanation, grounding, and understanding. I have also worked a lot on Bernard Bolzano's philosophy, in particular on his theory of grounding. This has resulted in a [monograph](https://www.klostermann.de/epages/63574303.sf/de_DE/?ObjectPath=/Shops/63574303/Products/9783465039716) and a [collection of papers an translations](https://global.oup.com/academic/product/bolzanos-philosophy-of-grounding-9780192847973?cc=de&lang=en&) (co-edited with Benjamin Schnieder). Before coming to Zurich, I was executive director of the [Centre for Philosophy of Science](https://www.uni-muenster.de/Wissenschaftstheorie/) at University of Münster, deputy professor for theoretical philosophy at Saarland University, and Post-Doc at the University of Hamburg (part of the [Relevance Project](https://relevance-project.org) and member of the [Phlox Group](https://phloxgroup.wordpress.com)). I obtained my PhD from VU University Amsterdam in 2014.    **Contact** me at [stefan.roski@philos.uzh.ch](mailto:stefan.roski@philos.uzh.ch) 
+      I am a lecturer in theoretical philosophy at the [philosophy department](https://www.philosophie.uzh.ch/en.html) of the University of Zurich. My research revolves around topics in the intersection of philosophy of science, metaphysics, and  epistemology; more specifically on explanation, grounding, and understanding. I have also worked a lot on Bernard Bolzano's philosophy, in particular on his theory of grounding. This has resulted in a [monograph](https://www.klostermann.de/epages/63574303.sf/de_DE/?ObjectPath=/Shops/63574303/Products/9783465039716) and a [collection of papers and translations](https://global.oup.com/academic/product/bolzanos-philosophy-of-grounding-9780192847973?cc=de&lang=en&) (co-edited with Benjamin Schnieder).           Before coming to Zurich, I was executive director of the [Centre for Philosophy of Science](https://www.uni-muenster.de/Wissenschaftstheorie/) at University of Münster, deputy professor for theoretical philosophy at Saarland University, and Post-Doc at the University of Hamburg (part of the [Relevance Project](https://relevance-project.org) and member of the [Phlox Group](https://phloxgroup.wordpress.com)). I obtained my PhD from VU University Amsterdam in 2014.    **Contact** me at [stefan.roski@philos.uzh.ch](mailto:stefan.roski@philos.uzh.ch) 
     skills:
       enable: false
       title: "Here are a few technologies I've been working with recently:"
