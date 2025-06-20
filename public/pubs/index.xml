@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pubs on StefanRoski&#39;s Homepage</title>
-    <link>//localhost:1313/pubs/</link>
-    <description>Recent content in Pubs on StefanRoski&#39;s Homepage</description>
+    <title>Pubs on Stefan Roski&#39;s Homepage</title>
+    <link>https://roskisp.github.io/pubs/</link>
+    <description>Recent content in Pubs on Stefan Roski&#39;s Homepage</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 05 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/pubs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://roskisp.github.io/pubs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Publications</title>
-      <link>//localhost:1313/pubs/pubs/</link>
+      <link>https://roskisp.github.io/pubs/pubs/</link>
       <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/pubs/pubs/</guid>
+      <guid>https://roskisp.github.io/pubs/pubs/</guid>
       <description>&lt;h3 id=&#34;monograph&#34;&gt;Monograph&lt;/h3&gt;&#xA;&lt;p&gt;(2017) &lt;a href=&#34;https://www.nomos-elibrary.de/en/10.5771/9783465139713/bolzano-s-conception-of-grounding&#34;&gt;Bolzano’s Conception of Grounding&lt;/a&gt;. Frankfurt am Main: Klostermann.&lt;/p&gt;&#xA;&lt;h3 id=&#34;edited&#34;&gt;Edited&lt;/h3&gt;&#xA;&lt;p&gt;(202X) &lt;a href=&#34;https://link.springer.com/collections/ieaaafadbe&#34;&gt;Hyperintensional Formal Epistemology&lt;/a&gt;. Special Issue of &lt;em&gt;Synthese&lt;/em&gt; (co-edited with &lt;a href=&#34;https://www.singabehrens.de&#34;&gt;Singa Behrens&lt;/a&gt; and &lt;a href=&#34;https://stephankraemer.wordpress.com&#34;&gt;Stephan Krämer&lt;/a&gt;)&lt;/p&gt;&#xA;&lt;p&gt;(2024) &lt;a href=&#34;https://link.springer.com/collections/dfddhbjigd&#34;&gt;Difference-Making and Explanatory Relevance&lt;/a&gt;. Special Issue of &lt;em&gt;Philosophical Studies&lt;/em&gt; (co-edited with &lt;a href=&#34;https://www.singabehrens.de&#34;&gt;Singa Behrens&lt;/a&gt; and &lt;a href=&#34;https://stephankraemer.wordpress.com&#34;&gt;Stephan Krämer&lt;/a&gt;)&lt;/p&gt;&#xA;&lt;p&gt;(2022) &lt;a href=&#34;https://global.oup.com/academic/product/bolzanos-philosophy-of-grounding-9780192847973?cc=de&amp;amp;lang=en&amp;amp;#&#34;&gt;Bolzano&amp;rsquo;s Philosophy of Grounding&lt;/a&gt;. Translations and Studies. Oxford University Press (co-edited with &lt;a href=&#34;https://benjaminschnieder.wordpress.com&#34;&gt;Benjamin Schnieder&lt;/a&gt;)&lt;/p&gt;&#xA;&lt;h3 id=&#34;articles-in-journals&#34;&gt;Articles in journals&lt;/h3&gt;&#xA;&lt;p&gt;(202X) &amp;ldquo;Metaphysically Understanding Why&amp;rdquo;, forthcoming in &lt;em&gt;The Journal of Philosophy&lt;/em&gt; (&lt;a href=&#34;mailto:stefan.roski@philos.uzh.ch&#34;&gt;contact me&lt;/a&gt; for a draft.)&lt;/p&gt;&#xA;&lt;p&gt;(2024) &lt;a href=&#34;https://link.springer.com/article/10.1007/s11098-024-02213-8&#34;&gt;Introduction: Difference-Making and Explanatory Relevance&lt;/a&gt;, &lt;em&gt;Philosophical Studies&lt;/em&gt; &lt;strong&gt;181&lt;/strong&gt; (Special Issue: &lt;em&gt;Difference-Making and Explanatory Relevance&lt;/em&gt;), pp. 2047-2061 (co-authored with &lt;a href=&#34;https://www.singabehrens.de&#34;&gt;Singa Behrens&lt;/a&gt; and &lt;a href=&#34;https://stephankraemer.wordpress.com&#34;&gt;Stephan Krämer&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
