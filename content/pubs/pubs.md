@@ -10,7 +10,9 @@ draft: false
 (2017) [Bolzano’s Conception of Grounding.](https://www.nomos-elibrary.de/en/10.5771/9783465139713/bolzano-s-conception-of-grounding) Frankfurt am Main: Klostermann. 
 
 
-### Edited 
+### Edited
+
+(202X) *Handbuch Analytische Philosophie.* Heidelberg: J.B. Metzler (co-edited with Hanjo Glock and Christoph Pfisterer)  
 
 (202X) [Hyperintensional Formal Epistemology.](https://link.springer.com/collections/ieaaafadbe) Special Issue of *Synthese* (co-edited with [Singa Behrens](https://www.singabehrens.de) and [Stephan Krämer](https://stephankraemer.wordpress.com))
  
