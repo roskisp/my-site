@@ -5,6 +5,6 @@ NODE_VERSION = "22"
 TZ = "America/Los_Angeles"
 
 [build]
-publish = "public"
+publish = "my-site/public"
 command = "git config core.quotepath false && hugo --gc --minify"
 
