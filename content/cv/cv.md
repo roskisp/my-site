@@ -1,6 +1,7 @@
 ---
 title: CV
-date: 2025-05-05 
+date: 2025-05-05
+draft: false 
 ---
 
 ## Currrent appointment 
