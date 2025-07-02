@@ -56,8 +56,10 @@ draft: false
 
 (2024) [Logical Deducibility and Logicality in 1837.](https://link.springer.com/chapter/10.1007/978-3-031-52411-0_15) In Ansten Klev (ed.) *The Architecture and Archaeology of Modern Logic*. Cham: Springer, pp. 317-338
 
+(2022) "A Survey of Bolzano’s Theory of Grounding". In S. Roski & B. Schnieder (eds.) *Bolzano's Philosophy of Grounding*. Oxford: Oxford University Press, pp. 4–34 (co-authored with Benjamin Schnieder)
 
-(2020) [Bolzano,](https://www.taylorfrancis.com/chapters/edit/10.4324/9781351258845-8/) in M. Raven The Routledge Companion to Metaphysical Grounding. Routledge, pp. 76-89
+
+(2020) [Bolzano.](https://www.taylorfrancis.com/chapters/edit/10.4324/9781351258845-8/) In M. Raven The Routledge Companion to Metaphysical Grounding. Routledge, pp. 76-89
 
 
 (2016) [Gründe aller Arten. Der Anspruch auf Vereinheitlichung in Bolzanos Abfolgetheorie.](https://philpapers.org/rec/ROSGAA-6) In Michael Quante (ed.) *Geschichte Gesellschaft Geltung*, Hamburg: Meiner, pp. 891– 912 (co-authored with [Benjamin Schnieder](https://benjaminschnieder.wordpress.com))
