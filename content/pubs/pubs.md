@@ -33,7 +33,7 @@ draft: false
 
 (2021) [Metaphysical Explanations and the Counterfactual Theory of Explanation,](https://link.springer.com/article/10.1007/s11098-020-01518-8) *Philosophical Studies* **179**, pp. 1971-1991
 
-(2019) [Fundamental Truths and the Principle of Sufficient Reason in Bolzano’s Theory of Grounding,](https://muse.jhu.edu/article/736077), *Journal of the History of Philosophy* **57**(3) pp. 675-706 (co-authored with Benjamin Schnieder)
+(2019) [Fundamental Truths and the Principle of Sufficient Reason in Bolzano’s Theory of Grounding,](https://muse.jhu.edu/article/736077) *Journal of the History of Philosophy* **57**(3) pp. 675-706 (co-authored with Benjamin Schnieder)
 
 (2019) [Bolzano and Kim on Grounding and Unification,](https://link.springer.com/article/10.1007/s11229-017-1593-7) *Synthese* **196**(7), pp. 2971-2999
 
