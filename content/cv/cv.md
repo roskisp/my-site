@@ -33,7 +33,7 @@ Post-Doc at the chair of Thomas Spitzley, Institute of Philosophy, University of
 **06/2013 -- 09/2013**  
  German Exchange Scholarship, Hamburg University
 
-**09/2009 -- 05/2013**   
+**04/2009 -- 05/2013**   
 Pre-Doc in Arianna Betti's Project *Tarski's Revolution. A New History* at VU University Amsterdam
 
 ## Education
