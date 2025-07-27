@@ -1,6 +1,6 @@
 ---
 title: CV
-date: 2025-05-05
+date: 2025-07-01
 draft: false 
 ---
 

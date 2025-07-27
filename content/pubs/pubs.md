@@ -1,6 +1,6 @@
 ---
 title: Publications
-date: 2025-05-05
+date: 2025-07-01
 draft: false 
 ---
 
@@ -51,12 +51,14 @@ draft: false
 
 ### Articles in collections
 
-(202X) [Was gehört zum Explanans? Eine Verteidigung des explanatorischen Realismus,](/Roski_WGZE.pdf) In te Vrugt, Michael (ed.) *Wissenschaft und Metaphysik*. Baden-Baden: Nomos.
+(202X) Bolzano's Theory of *Science*. Forthcoming in a volume dedicated to the memory of Edgar Morscher, edited by Otto Neumaier and Peter Smith. 
+
+(202X) [Was gehört zum Explanans? Eine Verteidigung des explanatorischen Realismus.](/Roski_WGZE.pdf) Forthcoming in te Vrugt, Michael (ed.) *Wissenschaft und Metaphysik*. Baden-Baden: Nomos.
 
 
 (2024) [Logical Deducibility and Logicality in 1837.](https://link.springer.com/chapter/10.1007/978-3-031-52411-0_15) In Ansten Klev (ed.) *The Architecture and Archaeology of Modern Logic*. Cham: Springer, pp. 317-338
 
-(2022) "A Survey of Bolzano’s Theory of Grounding". In S. Roski & B. Schnieder (eds.) *Bolzano's Philosophy of Grounding*. Oxford: Oxford University Press, pp. 4–34 (co-authored with Benjamin Schnieder)
+(2022) A Survey of Bolzano’s Theory of Grounding. In S. Roski & B. Schnieder (eds.) *Bolzano's Philosophy of Grounding*. Oxford: Oxford University Press, pp. 4–34 (co-authored with Benjamin Schnieder)
 
 
 (2020) [Bolzano.](https://www.taylorfrancis.com/chapters/edit/10.4324/9781351258845-8/) In M. Raven The Routledge Companion to Metaphysical Grounding. Routledge, pp. 76-89
