@@ -51,7 +51,8 @@ draft: false
 
 ### Articles in collections
 
-(202X) Bolzano's Theory of *Science*. Forthcoming in a volume dedicated to the memory of Edgar Morscher, edited by Otto Neumaier and Peter Smith. 
+(202X) Bolzano's Theory of *Science*. In Otto Neumaier and Peter Smith (eds.) *In Dialogue with Bernard Bolzano. Essays in Honor of Edgar Morscher (1941–2023).* Baden-Baden: Verlag Karl Alber, 2026, pp.141-175
+ 
 
 (202X) [Was gehört zum Explanans? Eine Verteidigung des explanatorischen Realismus.](/Roski_WGZE.pdf) Forthcoming in te Vrugt, Michael (ed.) *Wissenschaft und Metaphysik*. Baden-Baden: Nomos.
 
