@@ -51,10 +51,10 @@ draft: false
 
 ### Articles in collections
 
-(202X) Bolzano's Theory of *Science*. In Otto Neumaier and Peter Smith (eds.) *In Dialogue with Bernard Bolzano. Essays in Honor of Edgar Morscher (1941–2023).* Baden-Baden: Verlag Karl Alber, 2026, pp.141-175
- 
 
 (202X) [Was gehört zum Explanans? Eine Verteidigung des explanatorischen Realismus.](/Roski_WGZE.pdf) Forthcoming in te Vrugt, Michael (ed.) *Wissenschaft und Metaphysik*. Baden-Baden: Nomos.
+
+(2026) Bolzano's Theory of *Science*. Otto Neumaier & Peter Simons (eds.): *In Dialogue with Bernard Bolzano. Essays in Honor of Edgar Morscher (1941–2023)*. Stuttgart-Bad Cannstatt: Frommann-Holzboog, 2026: 141–175
 
 
 (2024) [Logical Deducibility and Logicality in 1837.](https://link.springer.com/chapter/10.1007/978-3-031-52411-0_15) In Ansten Klev (ed.) *The Architecture and Archaeology of Modern Logic*. Cham: Springer, pp. 317-338
