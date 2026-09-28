@@ -53,8 +53,6 @@ draft: false
 
 ### Articles in collections
 
-(202X) Scientific Explanation. In Sven Ove Hanson (ed.) \textit{Comprehensive Philosophy of Science}. Elsevier. 
-
 (202X) [Was gehört zum Explanans? Eine Verteidigung des explanatorischen Realismus.](/Roski_WGZE.pdf) Forthcoming in te Vrugt, Michael (ed.) *Wissenschaft und Metaphysik*. Baden-Baden: Nomos.
 
 (2026) Bolzano's Theory of *Science*. Otto Neumaier & Peter Simons (eds.): *In Dialogue with Bernard Bolzano. Essays in Honor of Edgar Morscher (1941–2023)*. Stuttgart-Bad Cannstatt: Frommann-Holzboog, 2026: 141–175
