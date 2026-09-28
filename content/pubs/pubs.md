@@ -25,7 +25,9 @@ draft: false
 
 ### Articles in journals
 
-(202X) "Metaphysically Understanding Why", forthcoming in *The Journal of Philosophy* ([contact me](mailto:stefan.roski@philos.uzh.ch) for a draft.)
+(202X) The Causal Grounds of Really Statistical Explanation, forthcoming in *European Journal for Philosophy of Science* 
+
+(202X) Metaphysically Understanding Why, forthcoming in *The Journal of Philosophy* ([contact me](mailto:stefan.roski@philos.uzh.ch) for a draft.)
 
 (2024) [Introduction: Difference-Making and Explanatory Relevance,](https://link.springer.com/article/10.1007/s11098-024-02213-8) *Philosophical Studies* **181** (Special Issue: *Difference-Making and Explanatory Relevance*), pp. 2047-2061 (co-authored with [Singa Behrens](https://www.singabehrens.de) and [Stephan Krämer](https://stephankraemer.wordpress.com))
 
@@ -51,6 +53,7 @@ draft: false
 
 ### Articles in collections
 
+(202X) Scientific Explanation. In Sven Ove Hanson (ed.) \textit{Comprehensive Philosophy of Science}. Elsevier. 
 
 (202X) [Was gehört zum Explanans? Eine Verteidigung des explanatorischen Realismus.](/Roski_WGZE.pdf) Forthcoming in te Vrugt, Michael (ed.) *Wissenschaft und Metaphysik*. Baden-Baden: Nomos.
 
