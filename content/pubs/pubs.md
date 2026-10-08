@@ -25,7 +25,7 @@ draft: false
 
 ### Articles in journals
 
-(202X) The Causal Grounds of Really Statistical Explanations, forthcoming in *European Journal for Philosophy of Science* ([contact me](mailto:stefan.roski@philos.uzh.ch) for a draft).
+(2026) [The Causal Grounds of Really Statistical Explanations](https://link.springer.com/article/10.1007/s13194-026-00791-4),  *European Journal for Philosophy of Science* **16(80)**, pp.~1-16
 
 (202X) Metaphysically Understanding Why, forthcoming in *The Journal of Philosophy* ([contact me](mailto:stefan.roski@philos.uzh.ch) for a draft).
 
